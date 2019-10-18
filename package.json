@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "html-validator-cli": "^7.0.0"
+  }
+}
